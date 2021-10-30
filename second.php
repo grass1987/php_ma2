@@ -1,4 +1,4 @@
 <?php
-$a = 'second';
+$a = 's11econd';
 echo $a;
 ?>
